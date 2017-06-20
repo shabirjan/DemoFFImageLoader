@@ -1,0 +1,15 @@
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/obj/Debug/DemoFFImageLoader.App.xaml
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/obj/Debug/DemoFFImageLoader.DemoFFImageLoaderPage.xaml
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/obj/Debug/DemoFFImageLoader.App.xaml.g.cs
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/obj/Debug/DemoFFImageLoader.DemoFFImageLoaderPage.xaml.g.cs
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/bin/Debug/DemoFFImageLoader.pdb
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/bin/Debug/DemoFFImageLoader.dll
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/obj/Debug/DemoFFImageLoader.dll
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/obj/Debug/DemoFFImageLoader.pdb
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/bin/Debug/Xamarin.Forms.Core.dll
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/bin/Debug/FFImageLoading.dll
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/bin/Debug/FFImageLoading.Platform.dll
+/Users/shabirjan/Desktop/DemoFFImageLoader/DemoFFImageLoader/bin/Debug/FFImageLoading.Forms.dll
